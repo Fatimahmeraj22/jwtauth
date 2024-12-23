@@ -1,0 +1,4 @@
+{
+    "PORT": "5005",
+    "DB_URL" : "mongodb+srv://meraj:meraj@fatimah.mqp3f.mongodb.net/"
+}
